@@ -19,3 +19,7 @@ arguments can be passed to the main file as such:
 ``` main.py -m output/digit_classifier.h5 -i 12.jpg```
 
 The output of the program (if it runs correctly ie: recognition of the appropriate digits in the Sudoku image) will be displayed in the ```sudokuout.txt``` file
+
+Linear Programming is used to actually solve the Sudoku puzzle itself.  More details can be found at the following:
+https://www.mathworks.com/help/optim/ug/sudoku-puzzles-problem-based.html
+
